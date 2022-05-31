@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Github API Interface
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi inicializado com Create React App.
+
+Este projeto consiste em uma aplicação que utiliza API pública do github e tem como finalidade pesquisar informações e repositórios por nome de usuário, incluindo pesquisa por repositórios com estrela.
+
+Foram utilizadas as bibliotecas:
+
+* axios
+* react-tabs
+* styled-components
 
 ## Available Scripts
 
